@@ -1,8 +1,8 @@
-site_name: nomad-synthesis-plugin
+site_name: synthesis-plugin
 site_description: plugin for synthesis data for Huyana Terraschke's workgroup at CAU Kiel
 site_author: Sebastian Brueckner
 
-repo_url: https://github.com/budschi/nomad-synthesis-plugin
+repo_url: https://github.com/budschi/synthesis-plugin
 edit_uri: ""
 
 nav:
