@@ -1,4 +1,4 @@
-# Welcome to the `nomad-synthesis-plugin` documentation
+# Welcome to the `synthesis-plugin` documentation
 
 plugin for synthesis data for Huyana Terraschke's workgroup at CAU Kiel
 
